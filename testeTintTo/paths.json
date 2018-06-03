@@ -1,0 +1,11 @@
+{
+  "desktop": {
+    "padroesPath": "../../_Padroes_3"
+  },
+
+  "mobile": {
+    "padroesPath": "_Padroes_3"
+  },
+
+  "context": "StandAlone"
+}
